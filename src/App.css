@@ -1,3 +1,10 @@
 .App {
   text-align: center;
+  height: 100vh;
+}
+
+body{
+background-image: url('https://media.istockphoto.com/id/693252158/fr/photo/terrain-de-football-avec-%C3%A9clairage-et-nuit-ciel.jpg?s=612x612&w=0&k=20&c=J0zUpizc2zWhZdArgReqbbpNDzYZBnSeuoO2_-PRvG8=');
+background-repeat: no-repeat;
+background-size: cover;
 }
